@@ -1,6 +1,6 @@
 # running_path_finder
 
-A new Flutter project.
+This Flutter app generates running routes using the Google Maps API.
 
 ## Getting Started
 
